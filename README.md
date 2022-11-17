@@ -1,6 +1,5 @@
 # NFT-staking-solidity
 
-## About
     * A marketplace where one can buy pre-uploaded Graphic NFTs (DHFNT) on IPFS. 
     * One can also buy Heros which are randomly minted according to their rarity. 
     * DHTToken can be staked to earn rewards and have their own marketplace. 
